@@ -8,7 +8,8 @@ DB00080;Daptomycin;1620.693;CCCCCCCCCC(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@H]
 DB00091;Cyclosporine;1202.635;CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C
 DB00106;Abarelix;1416.09;CC(C)C[C@H](NC(=O)[C@@H](CC(N)=O)NC(=O)[C@H](CC1=CC=C(O)C=C1)N(C)C(=O)[C@H](CO)NC(=O)[C@@H](CC1=CN=CC=C1)NC(=O)[C@@H](CC1=CC=C(Cl)C=C1)NC(=O)[C@@H](CC1=CC2=C(C=CC=C2)C=C1)NC(C)=O)C(=O)N[C@@H](CCCCNC(C)C)C(=O)N1CCC[C@H]1C(=O)N[C@H](C)C(N)=O
 DB00114;Pyridoxal phosphate;247.1419;CC1=NC=C(COP(O)(O)=O)C(C=O)=C1O
-DB00115;Cyanocobalamin;1355.3652;CC1=CC2=C(C=C1C)N(C=N2)[C@@H]3[C@@H]([C@@H]([C@H](O3)CO)OP(=O)([O-])O[C@H](C)CNC(=O)CC[C@@]4([C@H]([C@@H]5[C@]6([C@@]([C@@H](/C(=C(/C7=N/C(=C\C8=N/C(=C(\C4=N5)/C)/[C@H](C8(C)C)CCC(=O)N)/[C@H]([C@]7(C)CC(=O)N)CCC(=O)N)\C)/[N-]6)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3]
+DB00115;Cyanocobalamin;1355.3652;C[C@H](CNC(=O)CC[C@]1(C)[C@@H](CC(N)=O)[C@H]2N=C1\C(C)=C1/N=C(/C=C3\N=C(\C(\C)=C4\[C@@H](CCC(N)=O)[C@](C)(CC(N)=O)[C@@]2(C)N4[Co+]C#N)[C@@](C)(CC(N)=O)[C@@H]3CCC(N)=O)C(C)(C)[C@@H]1CCC(N)=O)OP([O-])(=O)O[C@@H]1[C@@H](CO)O[C@@H]([C@@H]1O)N1C=NC2=C1C=C(C)C(C)=C2
+DB00118;Ademetionine;398.44;C[S+](CC[C@H](N)C([O-])=O)C[C@H]1O[C@H]([C@H](O)[C@@H]1O)N1C=NC2=C1N=CN=C2N
 DB00119;Pyruvic acid;88.0621;CC(=O)C(O)=O
 DB00120;Phenylalanine;165.1891;N[C@@H](CC1=CC=CC=C1)C(O)=O
 DB00121;Biotin;244.311;[H][C@]12CS[C@@H](CCCCC(O)=O)[C@@]1([H])NC(=O)N2
@@ -373,7 +374,7 @@ DB00511;Acetyldigitoxin;806.9757;[H][C@@]1(CC[C@]2(O)[C@]3([H])CC[C@]4([H])C[C@H
 DB00512;Vancomycin;1449.254;CN[C@H](CC(C)C)C(=O)N[C@@H]1[C@H](O)C2=CC=C(OC3=C(O[C@@H]4O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O[C@H]4C[C@](C)(N)[C@H](O)[C@H](C)O4)C4=CC(=C3)[C@@H](NC(=O)[C@H](CC(N)=O)NC1=O)C(=O)N[C@@H]1C3=CC(=C(O)C=C3)C3=C(O)C=C(O)C=C3[C@H](NC(=O)[C@@H](NC1=O)[C@H](O)C1=CC(Cl)=C(O4)C=C1)C(O)=O)C(Cl)=C2
 DB00513;Aminocaproic acid;131.1729;NCCCCCC(O)=O
 DB00514;Dextromethorphan;271.404;[H][C@]12CCCC[C@]11CCN(C)[C@H]2CC2=C1C=C(OC)C=C2
-DB00515;Cisplatin;300.05;[NH4][Pt](Cl)(Cl)[NH4]
+DB00515;Cisplatin;300.05;[H][N]([H])([H])[Pt](Cl)(Cl)[N]([H])([H])[H]
 DB00517;Anisotropine methylbromide;362.345;[Br-].CCCC(CCC)C(=O)O[C@H]1CC2CCC(C1)[N+]2(C)C
 DB00518;Albendazole;265.331;CCCSC1=CC2=C(C=C1)N=C(NC(=O)OC)N2
 DB00519;Trandolapril;430.5372;[H][C@@]12C[C@H](N(C(=O)[C@H](C)N[C@@H](CCC3=CC=CC=C3)C(=O)OCC)[C@@]1([H])CCCC2)C(O)=O
@@ -382,7 +383,7 @@ DB00521;Carteolol;292.3734;CC(C)(C)NCC(O)COC1=CC=CC2=C1CCC(=O)N2
 DB00523;Alitretinoin;300.4351;C\C(\C=C\C1=C(C)CCCC1(C)C)=C\C=C\C(\C)=C\C(O)=O
 DB00524;Metolazone;365.835;CC1NC2=CC(Cl)=C(C=C2C(=O)N1C1=CC=CC=C1C)S(N)(=O)=O
 DB00525;Tolnaftate;307.409;CN(C(=S)OC1=CC2=CC=CC=C2C=C1)C1=CC=CC(C)=C1
-DB00526;Oxaliplatin;397.294;O=C1O[Pt]2(OC1=O)[NH3][C@H]1[C@H]([NH3]2)CCCC1
+DB00526;Oxaliplatin;397.294;[H][N]1([H])[C@@H]2CCCC[C@H]2[N]([H])([H])[Pt]11OC(=O)C(=O)O1
 DB00527;Cinchocaine;343.4632;CCCCOC1=NC2=CC=CC=C2C(=C1)C(=O)NCCN(CC)CC
 DB00528;Lercanidipine;611.7272;COC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)(C)CN(C)CCC(C1=CC=CC=C1)C1=CC=CC=C1
 DB00529;Foscarnet;126.0053;OC(=O)P(O)(O)=O
@@ -1819,8 +1820,8 @@ DB09378;Fluprednisolone;378.44;[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@
 DB09380;Sodium chromate Cr-51;160.92;[Na+].[Na+].[O-][51Cr]([O-])(=O)=O
 DB09382;Iodohippurate sodium I-131;331.055;[Na+].[O-]C(=O)CNC(=O)C1=C([131I])C=CC=C1
 DB09383;Meprednisone;372.461;[H][C@]1(C)C[C@@]2([H])[C@]3([H])CCC4=CC(=O)C=C[C@]4(C)[C@@]3([H])C(=O)C[C@]2(C)[C@@]1(O)C(=O)CO
-DB09385;Cyanocobalamin Co-57;1354.399;[57Co+3].[C-]#N.C[C@H](CNC(=O)CC[C@]1(C)[C@@H](CC(N)=O)C2[N-]\C1=C(C)/C1=N/C(=C\C3=N\C(=C(C)/C4=N[C@]2(C)[C@@](C)(CC(N)=O)[C@@H]4CCC(N)=O)\[C@@](C)(CC(N)=O)[C@@H]3CCC(N)=O)/C(C)(C)[C@@H]1CCC(N)=O)OP([O-])(=O)O[C@@H]1[C@@H](CO)O[C@@H]([C@@H]1O)N1C=[NH]C2=C1C=C(C)C(C)=C2
-DB09387;Cyanocobalamin Co-60;1356.389;[60Co+3].[C-]#N.C[C@H](CNC(=O)CC[C@]1(C)[C@@H](CC(N)=O)C2[N-]\C1=C(C)/C1=N/C(=C\C3=N\C(=C(C)/C4=N[C@]2(C)[C@@](C)(CC(N)=O)[C@@H]4CCC(N)=O)\[C@@](C)(CC(N)=O)[C@@H]3CCC(N)=O)/C(C)(C)[C@@H]1CCC(N)=O)OP([O-])(=O)O[C@@H]1[C@@H](CO)O[C@@H]([C@@H]1O)N1C=NC2=C1C=C(C)C(C)=C2
+DB09385;Cyanocobalamin Co-57;1354.399;OC[C@H]1O[C@@H]([C@@H]([C@@H]1OP(=O)(O[C@@H](CNC(=O)CC[C@@]1(C)/C/2=C(\C)/C3=N/C(=C\C4=N/C(=C(\C5=N[C@](C([C@@H]1CC(=O)N)[N-]2)(C)[C@@](C)(CC(=O)N)[C@@H]5CCC(=O)N)/C)/[C@@]([C@@H]4CCC(=O)N)(C)CC(=O)N)/C([C@@H]3CCC(=O)N)(C)C)C)[O-])O)N1C=[NH]c2c1cc(C)c(c2)C.[C-]#N.[57Co+3]
+DB09387;Cyanocobalamin Co-60;1356.389;OC[C@H]1O[C@@H]([C@@H]([C@@H]1OP(=O)(O[C@@H](CNC(=O)CC[C@@]1(C)/C/2=C(\C)/C3=N/C(=C\C4=N/C(=C(\C5=N[C@](C([C@@H]1CC(=O)N)[N-]2)(C)[C@@](C)(CC(=O)N)[C@@H]5CCC(=O)N)/C)/[C@@]([C@@H]4CCC(=O)N)(C)CC(=O)N)/C([C@@H]3CCC(=O)N)(C)C)C)[O-])O)n1cnc2c1cc(C)c(c2)C.[C-]#N.[60Co+3]
 DB09388;Rose bengal I-131;989.67;OC(=O)C1=C(C(Cl)=C(Cl)C(Cl)=C1Cl)C1=C2C=C([131I])C(=O)C([131I])=C2OC2=C([131I])C(O)=C([131I])C=C12
 DB09389;Norgestrel;312.453;CCC12CCC3C(CCC4=CC(=O)CCC34)C1CCC2(O)C#C
 DB09394;Phosphoric acid;97.9952;OP(O)(O)=O
@@ -2036,7 +2037,7 @@ DB11614;Rupatadine;415.97;CC1=CC(CN2CCC(CC2)=C2C3=CC=C(Cl)C=C3CCC3=C2N=CC=C3)=CN
 DB11619;Gestrinone;308.4141;[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)C=CC1=C3CCC(=O)C=C3CC[C@@]21[H]
 DB11622;Dehydrocholic acid;402.531;[H][C@@]1(CC[C@@]2([H])[C@]3([H])C(=O)C[C@]4([H])CC(=O)CC[C@]4(C)[C@@]3([H])CC(=O)[C@]12C)[C@H](C)CCC(O)=O
 DB11629;Laropiprant;435.89;CS(=O)(=O)C1=C2N(CC3=CC=C(Cl)C=C3)C3=C(CC[C@@H]3CC(O)=O)C2=CC(F)=C1
-DB11630;Temoporfin;680.764;C1CC2=NC1=C(C3=CC=C(N3)C(=C4C=CC(=N4)C(=C5C=CC(=C2C6=CC(=CC=C6)O)N5)C7=CC(=CC=C7)O)C8=CC(=CC=C8)O)C9=CC(=CC=C9)O
+DB11630;Temoporfin;680.764;Oc1cccc(c1)/C/1=C/2\CCC(=N2)/C(=c\2/cc/c(=C(/C3=N/C(=C(\c4[nH]c1cc4)/c1cccc(c1)O)/C=C3)\c1cccc(c1)O)/[nH]2)/c1cccc(c1)O
 DB11632;Opicapone;413.17;CC1=C(C2=NOC(=N2)C2=CC(=C(O)C(O)=C2)[N+]([O-])=O)C(Cl)=[N+]([O-])C(C)=C1Cl
 DB11633;Isavuconazole;437.47;C[C@@H](C1=NC(=CS1)C1=CC=C(C=C1)C#N)[C@](O)(CN1C=NC=N1)C1=C(F)C=CC(F)=C1
 DB11636;Nomegestrol;328.452;CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3C=C(C)C4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C
